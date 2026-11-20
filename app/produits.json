@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nom": "Lampe Orion", "description": "Lampe de bureau en laiton, lumière chaude.", "prix": 89.9, "stock": 12 },
+  { "id": 2, "nom": "Suspension Nébuleuse", "description": "Abat-jour en verre soufflé, 40 cm.", "prix": 149, "stock": 4 },
+  { "id": 3, "nom": "Applique Comète", "description": "Applique murale orientable, finition noire.", "prix": 64.5, "stock": 0 },
+  { "id": 4, "nom": "Guirlande Voie lactée", "description": "20 globes LED, 8 m, usage extérieur.", "prix": 39.99, "stock": 27 },
+  { "id": 5, "nom": "Lampadaire Zénith", "description": "Pied en chêne massif, 160 cm.", "prix": 219, "stock": 2 },
+  { "id": 6, "nom": "Veilleuse Lune", "description": "Veilleuse rechargeable, trois intensités.", "prix": 24.9, "stock": 58 }
+]
